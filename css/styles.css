@@ -1,6 +1,5 @@
-
 .bp {
-  width: 90px;
+  height: 200px;
 }
 
 .A {
@@ -11,4 +10,9 @@
 
 .bi {
   font-size: 25px;
+}
+
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
 }
