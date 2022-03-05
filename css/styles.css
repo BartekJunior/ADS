@@ -8,6 +8,10 @@
   text-align: center;
 }
 
+.card-img-top {
+  height: auto;
+}
+
 .bi {
   font-size: 25px;
 }
